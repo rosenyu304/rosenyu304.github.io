@@ -17,15 +17,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Undergraduate Teaching Assistant
+  * Georgia Tech School of Electrical and Computer Engineering
+  * Course: ECE 2036 Engineering Software Design
+    * A course uses C++ to introduce object-oriented programming and embedded system (MBED) to electrical engineering students
+  * Duties included: 
+    * Providing course tutoring
+    * Holding office hours for 10 hours per week
+    * Proctoring exams
+  * Supervisor: Professor [Kyle Bryant](kyle.bryan@gtri.gatech.edu)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Undergraduate Teaching Assistant
+  * Georgia Tech College of Computing
+  * Course: CS 1371 Computing for Engineers
+    * A course uses MATLAB to teach problem solving and coding practices to engineering students and first-time programmers
+  * Duties included: 
+    * Teaching weekly recitations
+    * Creating homework problems
+    * Holding office hours for 10 hours per week
+    * Proctoring exams
+  * Supervisor: [Kantwon Rogers]([kyle.bryan@gtri.gatech.edu](https://www.kantwon.com/))
   
 Skills
 ======
