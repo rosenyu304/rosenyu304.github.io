@@ -15,28 +15,16 @@ Education
   * Minor in Computer Science (Intellegence thread)
   * Minor in Earth and Atmospheric Science (Geophysics thread)
 
-Teaching experience
+Publications
 ======
-* Fall 2021: Undergraduate Teaching Assistant
-  * Georgia Tech School of Electrical and Computer Engineering
-  * Course: ECE 2036 Engineering Software Design
-    * A course uses C++ to introduce object-oriented programming and embedded system (MBED) to electrical engineering students
-  * Duties included: 
-    * Providing course tutoring
-    * Holding office hours for 10 hours per week
-    * Proctoring exams
-  * Supervisor: Professor [Kyle Bryant](kyle.bryan@gtri.gatech.edu)
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* Spring 2020: Undergraduate Teaching Assistant
-  * Georgia Tech College of Computing
-  * Course: CS 1371 Computing for Engineers
-    * A course uses MATLAB to teach problem solving and coding practices to engineering students and first-time programmers
-  * Duties included: 
-    * Teaching weekly recitations
-    * Creating homework problems
-    * Holding office hours for 10 hours per week
-    * Proctoring exams
-  * Supervisor: [Kantwon Rogers]([kyle.bryan@gtri.gatech.edu](https://www.kantwon.com/))
+Talks & Conferences
+======
+* American Geophysical Union ([AGU](https://www.agu.org/)) Fall Meeting 2022, Co-Author of "The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions"
+* Southeastern regional Society of Integrative and Comparative Biology Conference (Online), November 14th, 2020
 
 Research experience
 ======
@@ -100,7 +88,32 @@ Research experience
   * Calculated aircrafts’ velocity, thrust, and temperature based on the raw data of 200 types of planes
   * Used AEDT 3C software to analyze departure procedures of aircrafts based on FAA standards
 
-  
+
+Teaching experience
+======
+* Fall 2021: Undergraduate Teaching Assistant
+  * Georgia Tech School of Electrical and Computer Engineering
+  * Course: ECE 2036 Engineering Software Design
+    * A course uses C++ to introduce object-oriented programming and embedded system (MBED) to electrical engineering students
+  * Duties included: 
+    * Providing course tutoring
+    * Holding office hours for 10 hours per week
+    * Proctoring exams
+  * Supervisor: Professor [Kyle Bryant](kyle.bryan@gtri.gatech.edu)
+
+* Spring 2020: Undergraduate Teaching Assistant
+  * Georgia Tech College of Computing
+  * Course: CS 1371 Computing for Engineers
+    * A course uses MATLAB to teach problem solving and coding practices to engineering students and first-time programmers
+  * Duties included: 
+    * Teaching weekly recitations
+    * Creating homework problems
+    * Holding office hours for 10 hours per week
+    * Proctoring exams
+  * Supervisor: [Kantwon Rogers]([kyle.bryan@gtri.gatech.edu](https://www.kantwon.com/))
+
+
+
 Skills
 ======
 * Skill 1
@@ -110,11 +123,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
