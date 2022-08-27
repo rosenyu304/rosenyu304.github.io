@@ -16,5 +16,7 @@ I am currently an undergraduate student at [Georgia Tech](https://www.gatech.edu
 
 Recently, I am looking for a PhD position starting in Fall 2023. My research interests include computational simulations, machine learning, computer perspectives, robotics, and imaging. However, I would love to explore anything that uses computing to solve scientific problem, especially topics related to artifical intellegence, robotics, space exploration, or planetary science!
 
-I spend most of my time running (indoor/cross country) and in-door rock climbing (lead climbing certified). 
+Fun Facts
+========
+During my spare time, I spend most of my time running (indoor/cross country) and in-door rock climbing (lead climbing certified @ [Stone Summit](https://www.ssclimbing.com/)). 
 
