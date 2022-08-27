@@ -40,16 +40,27 @@ Teaching experience
 
 Research experience
 ======
-* Computational Modeling for Mid-Ocean Ridges
-  * Time: Fall 2021 ~ **Present**
-  * Lab: [Sim Lab](https://joycesim.github.io/) at Georgia Tech
-  * Supervisor: Professor [Joyce Sim](https://joycesim.github.io/)
-  * Research Tasks: 
-    * Evaluating the evolution of the global ridge system by considering the processes of melt focusing beneath mid-ocean ridges using two phase flow models
-    * Using [Terraferma](http://terraferma.github.io/) to make computational model of mid-ocean ridge’s mantle convection
-    * Investigating in special melting patterns at mid-ocean ridges and comparing them with the seismic data using [VBR calculator](https://vbr-calc.github.io/vbr/)
-  * Award: 
-    * President's Undergraduate Research Awards ([PURA](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards)) Recipient for Fall 2022
+Computational Modeling for Mid-Ocean Ridges
+* Time: Fall 2021 ~ **Present**
+* Lab: [Sim Lab](https://joycesim.github.io/) at Georgia Tech
+* Supervisor: Professor [Joyce Sim](https://joycesim.github.io/)
+* Research Tasks: 
+  * Evaluating the evolution of the global ridge system by considering the processes of melt focusing beneath mid-ocean ridges using two phase flow models
+  * Using [Terraferma](http://terraferma.github.io/) to make computational model of mid-ocean ridge’s mantle convection
+  * Investigating in special melting patterns at mid-ocean ridges and comparing them with the seismic data using [VBR calculator](https://vbr-calc.github.io/vbr/)
+* Award: 
+  * President's Undergraduate Research Awards ([PURA](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards)) Recipient for Fall 2022 Semester
+
+Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach
+* Time: Summer 2022 ~ **Present**
+* Lab: Seismic Laboratory for Imaging and Modelling [SLIM](https://slim.gatech.edu/whatisslim) at Georgia Tech
+* Supervisor: Professor [Felix Herrmann](https://slim.gatech.edu/people/felix-j-herrmann)
+* Research Tasks: 
+  * Building statistical neural network classifiers for [CO2 leakage detection](https://slim.gatech.edu/research/geological-carbon-storage)
+  * Utilizing [Gen.jl](https://www.gen.dev/) to build a stochastic model of the evolution of the CO2 storage in time with the approach of sequential-bayesian inferencing
+  * Training [Conditional Normalizing Flow](https://github.com/slimgroup/SLIMTutorials/blob/main/08_conditional_normalizing_flow.ipynb) network using the proxy model and seismic observation of the CO2 storage
+
+
 
 
 * Spring 2020: Undergraduate Teaching Assistant
