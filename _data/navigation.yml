@@ -6,6 +6,15 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Honors & Awards"
+    url: /honors&awards/
+    
+  - title: "Research"
+    url: /research/
+
+  - title: "Projects"
+    url: /projects/
+    
   - title: "Talks"
     url: /talks/    
 
@@ -18,8 +27,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Honors & Awards"
-    url: /honors&awards/
 
     
 #   - title: "Guide"
