@@ -15,17 +15,6 @@ Education
   * Minor in Computer Science (Intellegence thread)
   * Minor in Earth and Atmospheric Science (Geophysics thread)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks & Conferences
-======
-* American Geophysical Union ([AGU](https://www.agu.org/)) Fall Meeting 2022, Co-Author of "The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions"
-* Southeastern regional Society of Integrative and Comparative Biology Conference (Online), November 14th, 2020
-
 Research experience
 ======
 **Computational Modeling for Mid-Ocean Ridges**
@@ -88,6 +77,17 @@ Research experience
   * Calculated aircrafts’ velocity, thrust, and temperature based on the raw data of 200 types of planes
   * Used AEDT 3C software to analyze departure procedures of aircrafts based on FAA standards
 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks & Conferences
+======
+* American Geophysical Union ([AGU](https://www.agu.org/)) Fall Meeting 2022, Co-Author of "The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions"
+* Southeastern regional Society of Integrative and Comparative Biology Conference (Online), November 14th, 2020
 
 Teaching experience
 ======
