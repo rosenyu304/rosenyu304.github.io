@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical & Computer Engineering, Georgia Institute Technology, 2023
-  * Minor in Computer Science
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  * Minor in Computer Science (Intellegence thread)
+  * Minor in Earth and Atmospheric Science (Geophysics thread)
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Beyond Taiwan](https://beyondtw.wordpress.com/) Executive Board
