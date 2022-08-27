@@ -2,7 +2,7 @@
 title: "Fire ant rafts elongate under fluid flows"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2022-06-09
 venue: 'Bioinspiration & Biomimetics'
 paperurl: 'https://doi.org/10.1088/1748-3190/ac6d98'
