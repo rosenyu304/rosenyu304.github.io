@@ -15,7 +15,7 @@ Education
   * Minor in Computer Science (Intellegence thread)
   * Minor in Earth and Atmospheric Science (Geophysics thread)
 
-Work experience
+Teaching experience
 ======
 * Fall 2021: Undergraduate Teaching Assistant
   * Georgia Tech School of Electrical and Computer Engineering
@@ -26,6 +26,31 @@ Work experience
     * Holding office hours for 10 hours per week
     * Proctoring exams
   * Supervisor: Professor [Kyle Bryant](kyle.bryan@gtri.gatech.edu)
+
+* Spring 2020: Undergraduate Teaching Assistant
+  * Georgia Tech College of Computing
+  * Course: CS 1371 Computing for Engineers
+    * A course uses MATLAB to teach problem solving and coding practices to engineering students and first-time programmers
+  * Duties included: 
+    * Teaching weekly recitations
+    * Creating homework problems
+    * Holding office hours for 10 hours per week
+    * Proctoring exams
+  * Supervisor: [Kantwon Rogers]([kyle.bryan@gtri.gatech.edu](https://www.kantwon.com/))
+
+Research experience
+======
+* Computational Modeling for Mid-Ocean Ridges
+  * Time: Fall 2021 ~ **Present**
+  * Lab: [Sim Lab](https://joycesim.github.io/) at Georgia Tech
+  * Supervisor: Professor [Joyce Sim](https://joycesim.github.io/)
+  * Research Tasks: 
+    * Evaluating the evolution of the global ridge system by considering the processes of melt focusing beneath mid-ocean ridges using two phase flow models
+    * Using [Terraferma](http://terraferma.github.io/) to make computational model of mid-ocean ridge’s mantle convection
+    * Investigating in special melting patterns at mid-ocean ridges and comparing them with the seismic data using [VBR calculator](https://vbr-calc.github.io/vbr/)
+  * Award: 
+    * President's Undergraduate Research Awards ([PURA](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards)) Recipient for Fall 2022
+
 
 * Spring 2020: Undergraduate Teaching Assistant
   * Georgia Tech College of Computing
