@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Ting-Ying (Rosen) Yu <i>余婷穎</i>
+# Ting-Ying (Rosen) Yu
 
 About me
 ========
