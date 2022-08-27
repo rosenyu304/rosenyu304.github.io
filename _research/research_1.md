@@ -1,6 +1,6 @@
 ---
-title: "Research item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Computational Modeling for Mid-Ocean Ridges"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/mid_ridge.png.png'>"
 collection: research
 ---
 
