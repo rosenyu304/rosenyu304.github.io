@@ -1,5 +1,5 @@
 ---
-title: "Computational Modeling for Mid-Ocean Ridges"
+title: "`Computational Modeling for Mid-Ocean Ridges`"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/mid_ridge.png'>"
 collection: research
 ---
