@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at [Georgia Tech](https://www.gatech.edu/) with a major in [Electrical Engineering](https://www.ece.gatech.edu/) (planning to graduate in Spring 2023). With a passion learning Machine Learning and Solid Earth Science , I am also minoring in [Computer Science (Intelligence specialization)](https://www.cc.gatech.edu/degree-programs/minor-computing-intelligence) and [Earth and Atmosphere Science (Geophysics specialization)](https://eas.gatech.edu/undergrad/geophysics-minor). I am currently working on 4 research projects with the topics of: 
+# Ting-Ying (Rosen) Yu
+<i>余婷穎</i>
+
+About me
+========
+I am currently an undergraduate student at [Georgia Tech](https://www.gatech.edu/) with a major in [Electrical Engineering](https://www.ece.gatech.edu/) (planning to graduate in Spring 2023). With a passion learning Machine Learning and Solid Earth Science , I am also minoring in [Computer Science (Intelligence specialization)](https://www.cc.gatech.edu/degree-programs/minor-computing-intelligence) and [Earth and Atmosphere Science (Geophysics specialization)](https://eas.gatech.edu/undergrad/geophysics-minor). 
+I am currently working on 4 research projects with the topics of: 
 * Mid-Ocean Ridges Modeling
 * Seismic Monitoring CO2 Storage with Machine Learning Approach
 * NASA SWIM Robots Development
