@@ -91,17 +91,15 @@ Research experience
   * Conducted computational fluid dynamic analysis on pharyngeal airflow velocity of pharyngeal airways’ CAD models
 * Publication: [Changes in Tongue Area, Pharyngeal Area, and Pharyngeal Airway Velocity after Correction of Mandibular Prognathism](https://doi.org/10.3390/jcm10194560)
 
+**[ASCENT Project 45](https://ascent.aero/partner-45/): Takeoff/Climb Analysis to Support AEDT APM Development**
+* Time: Fall 2019
+* Lab: Aerospace System Design Lab ([ASDL](https://www.asdl.gatech.edu/)) at Georgia Tech
+* Supervisor: Dr. [Michelle Kirby](https://www.asdl.gatech.edu/Michelle_Kirby.html)
+* Research Tasks: 
+  * Developed a robust set of recommendations for improved estimation processes for takeoff weight, reduced thrust takeoffs, and departure profiles within AEDT
+  * Calculated aircrafts’ velocity, thrust, and temperature based on the raw data of 200 types of planes
+  * Used AEDT 3C software to analyze departure procedures of aircrafts based on FAA standards
 
-* Spring 2020: Undergraduate Teaching Assistant
-  * Georgia Tech College of Computing
-  * Course: CS 1371 Computing for Engineers
-    * A course uses MATLAB to teach problem solving and coding practices to engineering students and first-time programmers
-  * Duties included: 
-    * Teaching weekly recitations
-    * Creating homework problems
-    * Holding office hours for 10 hours per week
-    * Proctoring exams
-  * Supervisor: [Kantwon Rogers]([kyle.bryan@gtri.gatech.edu](https://www.kantwon.com/))
   
 Skills
 ======
