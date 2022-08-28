@@ -20,7 +20,7 @@ I am currently working on 4 research projects with the topics of:
 * NASA SWIM Robots Development
 * Venus Coronae Modeling
 
-Recently, I am looking for a PhD position starting in Fall 2023. My research interests include computational simulations, machine learning, computer perspectives, robotics, and imaging. However, I would love to explore anything that uses computing to solve scientific problem, especially topics related to artifical intellegence, robotics, space exploration, or planetary science!
+Recently, I am looking for a PhD position starting in Fall 2023. My research interests include computational simulations, machine learning, computer perspectives, robotics, and imaging. However, I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied (geo)physics, artifical intellegence, robotics, space exploration, or planetary science!
 
 Fun Facts
 ========
