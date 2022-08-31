@@ -86,8 +86,10 @@ Publications
 
 Talks & Conferences
 ======
-* American Geophysical Union ([AGU](https://www.agu.org/)) Fall Meeting 2022, Co-Author of "The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions"
-* Southeastern regional Society of Integrative and Comparative Biology Conference (Online), November 14th, 2020
+*	[Upcoming] Hungtang Ko, Ting-Ying Yu, David Hu. “Collective behaviors of fire ants on the water surface”. In: Society for Integrative and Comparative Biology (SICB) Meeting 2023. Jan 2023. 
+*	[Upcoming] Anna Gülcher, Ting-Ying Yu, Taras Gerya. “The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions”. In: American Geophysical Union. Dec 2022. 
+*	Ting-Ying Yu. “Deformation of fire ant rafts under uniform flow”. In: Southeastern regional Society of Integrative and Comparative Biology Conference. Nov 2020. 
+
 
 Teaching experience
 ======
@@ -116,26 +118,11 @@ Teaching experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming:  Python, PyTorch, Java, Julia, C/C++, R, Bash, HTML, JavaScript, MATLAB, Git, Linux
+* Software:  Processing, Paraview, COMSOL Multiphysics, Android Studio, Altera Quartus II, NI LabVIEW, AutoCAD
+* Hardware: Arduino, Raspberry Pi, ARM mbed microcontroller, FPGAs, oscilloscope, logic analyzer, water jet
+* Document Preparation Systems: Markdown, LATEX
+* Languages:  English (fluent), Chinese (native), Japanese (beginner), French (beginner)
   
 Service and leadership
 ======
