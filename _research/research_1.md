@@ -19,9 +19,16 @@ Fig 2. Topography of Venus coronae classified as each class.
 
 # 2. Simulation Results
 <img src='/images/venus0.png'>
+Fig 3. Hand drawings of model dimensions. The models varies in their crutal thickness, transition length, and thermal profile of the lithosphere. Details of each model's structural geometry are provided in the supplementary Table 1. 
+
 <img src='/images/result_lh2040mB_1.png'>
+Fig 4. Lowland Trench Formation. Results of model "lh2040mB" with crustal heterogeneity and crustal thickness of 20-40km and 100km transition. The upper and middle rows show the snapshots of composition in 3D and 2D with temperature. The bottom row displays the surface topography of coronae. 
+
 <img src='/images/result_lth2040mB_1.png'>
+Fig 5. Plateau Trench Formation. Results of model "lth2040mB" with thermal heterogeneity and crustal thickness of 20-40km and 100km transition. The upper and middle rows show the snapshots of composition in 3D and 2D with temperature. The bottom row displays the surface topography of coronae. 
+
 <img src='/images/Fig_lh_lth_40_B_C.png'>
+Fig 6. Composition and topography of the coronae development from the numerical model group of 20-40km crustal heterogeneity and variation in transition length and thermal heterogeneity. (A), (B) shows merely the effect of crustal heterogeneity (lh-), resulting in coronae with a trench on the lowland side.  With the thermal heterogeneity in (C) and (D), a different pattern of the asymmetry of coronae is demonstrated with a trench on the plateau side.
 
 
 
