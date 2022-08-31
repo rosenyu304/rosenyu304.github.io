@@ -1,6 +1,6 @@
 ---
 title: "🐜 Fire Ant Raft Deformation under Flow"
-excerpt: "Keywords: SWARM Robotics, Computational Fluid Dynamics(CFD), Computer Imaging, Biomechanics<br/>"
+excerpt: "**Keywords:** SWARM Robotics, Computational Fluid Dynamics(CFD), Computer Imaging, Biomechanics<br/>"
 collection: research
 ---
 
