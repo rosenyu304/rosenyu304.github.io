@@ -4,7 +4,7 @@ excerpt: "Keywords: SWARM Robotics, Computational Fluid Dynamics(CFD), Computer 
 collection: research
 ---
 
-Lab: Hu Lab Biolocomotion
+Lab: Hu Lab Biolocomotion 
 Publication: https://doi.org/10.1088/1748-3190/ac6d98
 
 # Abstract:
@@ -12,3 +12,4 @@ Fire ants survive flash floods by linking their bodies together to build waterpr
 
 # Figures
 <img src='/images/antss.jpg'>
+Figure 3. The activity of ants at the raft's perimeter . (A) Schematic showing ants exploring the boundary of a raft. The blue arrow indicates the direction of water flow. (B) Steps for calculating the ant activity level $Δr(θ, t)$, the difference in radii of the rafts at two points in time. The sample graph on the right shows the relationship between $Δr(θ)$ and angle $θ$ for a single instant in time. Heat maps of $Δr(θ, t)$ for rafts (C) in still water and (D) in flow. The dotted lines mark the leading and trailing edge of the raft. Video of ant raft boundary change over time: https://youtu.be/9UhUbt_B6sk
