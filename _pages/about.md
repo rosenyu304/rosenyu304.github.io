@@ -25,6 +25,6 @@ Recently, I am looking for a PhD position starting in Fall 2023. My research int
 Fun Facts
 ========
 During my spare time, I spend most of my time running (indoor/cross country) and in-door rock climbing (lead climbing certified @ [Stone Summit](https://www.ssclimbing.com/)). <br>
-🎵 Running Playlist (Japanese): [Link](https://www.youtube.com/playlist?list=PLEtGS_IHQTVYV-qyCBDASQ_73WdPUVwta) <br>
-🎵 Rock Climbing Plalist: [Link](https://open.spotify.com/playlist/5F4NVYT8G6BhZ1eZwcs3Ci?si=56392b1d799c4fc9)
+&nbsp 🎵 Running Playlist (Japanese): [Link](https://www.youtube.com/playlist?list=PLEtGS_IHQTVYV-qyCBDASQ_73WdPUVwta) <br>
+&nbsp 🎵 Rock Climbing Plalist: [Link](https://open.spotify.com/playlist/5F4NVYT8G6BhZ1eZwcs3Ci?si=56392b1d799c4fc9)
 
