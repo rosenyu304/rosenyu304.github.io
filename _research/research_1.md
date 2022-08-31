@@ -12,6 +12,7 @@ The overall goal of this research is to study asymmetrical corona structures' fo
 
 # 1. Asymmetrical Coronae Classification
 <img src='/images/venus1.png'>
+<br>
 Fig 1. Global distribution of coronae identified as symmetric or asymmetric subclasses. A Mollweide projection centered at  60° E is utilized in both images. Coronae are plotted on (A) the global topography relative to 6051.877 km (Sandwell, 2015; Gülcher, 2018) and (B) the Venus crustal thickness (Weiczorek, 2015). A complete record of classifications for all 130 coronae is provided in Table 2 in the supplementary section. 
 <img src='/images/venus2.png'>
 Fig 2. Topography of Venus coronae classified as each class. 
