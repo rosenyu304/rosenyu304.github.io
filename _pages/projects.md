@@ -47,4 +47,13 @@ ECE 2026 Engineering Software Design
 * Projects:
   * A recreation of the Asteroids game using mBed and LCD screen: [Demo](https://drive.google.com/drive/folders/1WUDO4WNKQEhty5Q-tiDDb7GpxjsiEClz?usp=sharing)
 
+Hackathon Projects
+====================
+* Remote Partner - an app that bring students together during COVID - [Demo](https://devpost.com/software/remote-partner?ref_content=user-portfolio&ref_feature=in_progress)
+* MedHelp - an Uber-like app for ambulances - [Demo](https://devpost.com/software/ivyhacks-g7pd5b)
+
+Rocketry
+====================
+* Georgia Tech Experimental Rocketry [GTXR](https://rocketry.gatech.edu/teams/gtxr/)
+
 
