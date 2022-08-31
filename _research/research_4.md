@@ -15,8 +15,8 @@ My contribution to this project:
 
 <img src='/images/SWIM1.png'> 
 Schemetics for pressure sensor. The embedded code of the sensor can be found [here](https://github.com/chrisgrizzly/SWIM/).
-<\br>
+
 
 <img src='/images/robotsss.png'> 
 Simulation of SWIM robot's swarm behavior under water.
-<\br>
+
