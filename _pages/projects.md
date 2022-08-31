@@ -14,14 +14,15 @@ Here are some projects that I did for classes, hackathons, or just for fun!
 
 ECE 4803 Fundamentals of Machine Learning
 ====================
-* B.S. in Electrical & Computer Engineering, Georgia Institute Technology, 2023
-  * Minor in Computer Science (Intellegence thread)
-  * Minor in Earth and Atmospheric Science (Geophysics thread)
+* About: Using Python to 
+  * Skills learned: Python, PyTorch
+* Projects:
+  * 
 
 ECE 4122 Advanced Software Programming
 ====================
-* About: Using C/C++ to 
-  * Skills learned: C/C++
+* About: Using C/C++ to a number of programming techniques for distributed and parallel computing and other advanced methods, such as multithreading, OpenMP, sockets, GPU/HPC programming, OpenMPI, OpenGL, etc.
+  * Skills learned: C/C++, [Threads](https://cplusplus.com/reference/thread/thread/), Simple and Fast Multimedia Library - [SMFL](https://www.sfml-dev.org/)(Sockets, Game Visuals), GPU/HPC programming(CUDA), OpenMP, OpenMPI, OpenGL
 * Projects:
   * 
 
