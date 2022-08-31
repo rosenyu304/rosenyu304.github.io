@@ -1,6 +1,6 @@
 ---
 title: "Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/slimm.png'>"
+excerpt: "Keywords: Machine Learning, Probabilistic Programming, Sequential Bayesian Infernece, Computer Imaging<br/>"
 collection: research
 ---
 
