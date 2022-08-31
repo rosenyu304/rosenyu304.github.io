@@ -18,7 +18,7 @@ Fig 2. Topography of Venus coronae classified as each class.
 (A) Aramaiti coronae, an example of symmetric coronae located at [-26.3°, 82°] with a diameter of 350km. (B) Juksakka coronae, an example of asymmetric coronae of margin subclass located at [-19.5°, 44.5°] with a diameter of 320km. (C) Ereshkigal coronae, an example of asymmetric coronae of intrinsic subclass located at [21°, 84.5°] with a diameter of 320km. (D) Marzyana coronae, an example of asymmetric coronae of angular subclass located at [-53°, 67.5°] with a diameter of 350km. (E) Obiemi coronae, an example of asymmetric coronae of angular subclass located at [-31.9°, 276.6°] with a diameter of 300km. (F) Ceres coronae, an example of asymmetric coronae of elongated subclass located at [-16°, 151.5°] with a diameter of 675km.
 
 # 2. Simulation Results
-<img src='/images/venus0.png'>
+<img src='/images/venus_0.png'>
 Fig 3. Hand drawings of model dimensions. The models varies in their crutal thickness, transition length, and thermal profile of the lithosphere. Details of each model's structural geometry are provided in the supplementary Table 1. 
 
 <img src='/images/result_lh2040mB_1.png'>
