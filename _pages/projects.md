@@ -44,7 +44,7 @@ Here are some projects that I did for classes, hackathons, or just for fun!
   * My favorite project - "CS 3630 Project 4: Object Detection and Path Planning": [Demo]([https://drive.google.com/drive/folders/1WUDO4WNKQEhty5Q-tiDDb7GpxjsiEClz?usp=sharing](https://colab.research.google.com/drive/1ihAjvDV9H9Gq-suVUEIoPKWij55bQ6By?usp=sharing))
 
 
-💻 Engineering Software Design (ECE 2026)
+💻 Engineering Software Design (ECE 2036)
 ====================
 * **About:** Using C/C++ to do embedded programming on a microcontroller - mBed
   * Skills learned: C/C++, [armMbed](https://os.mbed.com/), Microsoft Visual Studio Code
