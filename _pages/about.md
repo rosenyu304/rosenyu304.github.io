@@ -28,5 +28,6 @@ During my spare time, I spend most of my time running (indoor/cross country) and
 
 &nbsp;
  🎵 Running Playlist (Japanese): [Link](https://www.youtube.com/playlist?list=PLEtGS_IHQTVYV-qyCBDASQ_73WdPUVwta) <br>
+&nbsp;
  🎵 Rock Climbing Plalist: [Link](https://open.spotify.com/playlist/5F4NVYT8G6BhZ1eZwcs3Ci?si=56392b1d799c4fc9)
 
