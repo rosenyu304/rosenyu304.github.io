@@ -14,9 +14,10 @@ Here are some projects that I did for classes, hackathons, or just for fun!
 
 ECE 4803 Fundamentals of Machine Learning
 ====================
-* About: Using Python to 
-  * Skills learned: Python, PyTorch
+* About: Using Python to solve problems such as Anomaly Detection with machine learning approaches such as Classification, Regression, Clustering, convolutional neural network (CNN) 
+  * Skills learned: Python (NumPy), PyTorch, Google Colab, Matplotlib, CNN architectures(AlexNet, VGGNet, ResNet)
 * Projects:
+  * [Markdowns & Probability in Machine Learning](https://rosenyu304.github.io/files/4803/Yu_Ting-Ying_ECE_4803_sp22_assignment_1.pdf.pdf)
   * 
 
 ECE 4122 Advanced Software Programming
@@ -29,7 +30,7 @@ ECE 4122 Advanced Software Programming
 CS 3630 Introduction to Robotics and Perception
 ====================
 * About: Using Python to develop robots and perceptions ([Textbook](https://www.roboticsbook.org/intro.html))
-  * Skills learned: Python (.py, .ipynb), Bayesian Infernece, Path Planning(Markov, MCMC, SLAM, ...), Deep Learning, [GTSAM](https://gtsam.org/), Autonomous algorithm design
+  * Skills learned: Python (.py, .ipynb), Bayesian Infernece, Path Planning(Markov, MCMC, SLAM, ...), Deep Learning (PyTorch), [GTSAM](https://gtsam.org/), Autonomous algorithm design
 * Projects:
   * My favorite project - "CS 3630 Project 4: Object Detection and Path Planning" [Demo]([https://drive.google.com/drive/folders/1WUDO4WNKQEhty5Q-tiDDb7GpxjsiEClz?usp=sharing](https://colab.research.google.com/drive/1ihAjvDV9H9Gq-suVUEIoPKWij55bQ6By?usp=sharing))
 
