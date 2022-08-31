@@ -1,6 +1,6 @@
 ---
-title: "Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach"
-excerpt: "Keywords: Machine Learning, Probabilistic Programming, Sequential Bayesian Infernece, Computer Imaging<br/>"
+title: "Fire Ant Raft Deformation under Flow"
+excerpt: "Keywords: SWARM Robotics, Computational Fluid Dynamics(CFD), Computer Imaging, Biomechanics<br/>"
 collection: research
 ---
 
