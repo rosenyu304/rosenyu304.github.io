@@ -1,6 +1,6 @@
 ---
 title: "🌋 The influence of melt freezing on geochemical layering in the oceanic lithosphere"
-excerpt: "Keywords: Mid-Ocean Ridge, Computer Simulation, Paraview, VBR Calculator, Geodynamics<br/>"
+excerpt: "**Keywords:** Mid-Ocean Ridge, Computer Simulation, Paraview, VBR Calculator, Geodynamics<br/>"
 collection: research
 ---
 
