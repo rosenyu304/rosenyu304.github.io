@@ -1,5 +1,5 @@
 ---
-title: "Asymmetrical Venus Coronae - 3D Thermal-Mechanical Modeling"
+title: "🛰️ Asymmetrical Venus Coronae - 3D Thermal-Mechanical Modeling"
 excerpt: "Keywords: Computer Simulation, Paraview, GMT, Bash<br/>"
 collection: research
 ---
