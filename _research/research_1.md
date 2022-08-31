@@ -1,6 +1,6 @@
 ---
 title: "🛰️ Asymmetrical Venus Coronae - 3D Thermal-Mechanical Modeling"
-excerpt: "Keywords: Computer Simulation, Paraview, GMT, Bash<br/>"
+excerpt: "Keywords: Computer Simulation, Geodynamics, Paraview, GMT(PyGMT), Bash<br/>"
 collection: research
 ---
 Lab: Dr. [Taras Gerya](http://jupiter.ethz.ch/~tgerya/)'s team of [Geophysical Fluid Dynamics goup at ETH Zurich's Institute of Geophysics](https://geophysics.ethz.ch/research/groups/gfd.html)
