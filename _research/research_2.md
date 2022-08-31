@@ -1,5 +1,5 @@
 ---
-title: "Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach"
+title: "📶 Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach"
 excerpt: "Keywords: Machine Learning, Probabilistic Programming, Sequential Bayesian Infernece, Seismology, Computer Imaging, Carbon Capture Storage (CCS)<br/>"
 collection: research
 ---
