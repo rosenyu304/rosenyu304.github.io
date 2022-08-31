@@ -25,7 +25,10 @@ ECE 4122 Advanced Software Programming
 * About: Using C/C++ to a number of programming techniques for distributed and parallel computing and other advanced methods, such as multithreading, OpenMP, sockets, GPU/HPC programming, OpenMPI, OpenGL, etc.
   * Skills learned: C/C++, [Threads](https://cplusplus.com/reference/thread/thread/), Simple and Fast Multimedia Library - [SMFL](https://www.sfml-dev.org/)(Sockets, Game Visuals), GPU/HPC programming(CUDA), OpenMP, OpenMPI, OpenGL
 * Projects:
-  * 
+  * Socket Programming (TCP, UDP) [Demo](https://mediaspace.gatech.edu/media/Ting-Ying%27s+ECE4122+Lab4+-+Ting-Ying%27s+Meeting++2021-11-06T00A15A58.829-07A00+-+3/1_45t3b658)
+  * Angry "Buzz" Game [Demo](https://drive.google.com/file/d/17PJDyWJOhO2HyFZ26b35wH3aGz3iQ7jj/view?usp=sharing)
+  * [CUDA GPU Programming](https://rosenyu304.github.io/files/4803/Lab5.cu)
+  * 3D Flying Drones Simulation [Demo](https://mediaspace.gatech.edu/media/Ting-Ying%27s+Meeting+-+Ting-Ying%27s+Meeting++2021-12-05T11A01A15.970-08A00+-+1/1_edgk0nkm)
 
 CS 3630 Introduction to Robotics and Perception
 ====================
