@@ -1,5 +1,5 @@
 ---
-title: "Computational Fluid Dynamics Simulation for Pharyngeal Airway"
+title: "🌬️ Computational Fluid Dynamics Simulation for Pharyngeal Airway"
 excerpt: "Keywords: Computational Fluid Dynamics, Statistics, MATLAB<br/>"
 collection: research
 ---
