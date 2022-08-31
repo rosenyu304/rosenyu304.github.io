@@ -17,18 +17,18 @@ Education
 
 Research experience
 ======
-**Computational Modeling for Mid-Ocean Ridges**
+[**Computational Modeling for Mid-Ocean Ridges**](https://rosenyu304.github.io/research/research_3/)
 * Time: Fall 2021 ~ **Present**
 * Lab: [Sim Lab](https://joycesim.github.io/) at Georgia Tech
 * Supervisor: Professor [Joyce Sim](https://joycesim.github.io/)
-* Research Tasks: 
+<!-- * Research Tasks: 
   * Evaluating the evolution of the global ridge system by considering the processes of melt focusing beneath mid-ocean ridges using two phase flow models
   * Using [Terraferma](http://terraferma.github.io/) to make computational model of mid-ocean ridge’s mantle convection
-  * Investigating in special melting patterns at mid-ocean ridges and comparing them with the seismic data using [VBR calculator](https://vbr-calc.github.io/vbr/)
+  * Investigating in special melting patterns at mid-ocean ridges and comparing them with the seismic data using [VBR calculator](https://vbr-calc.github.io/vbr/) -->
 * Award: 
   * President's Undergraduate Research Awards ([PURA](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards)) Recipient for Fall 2022 Semester
 
-**Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach**
+[**Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach**](https://rosenyu304.github.io/research/research_2/)
 * Time: Summer 2022 ~ **Present**
 * Lab: Seismic Laboratory for Imaging and Modelling [SLIM](https://slim.gatech.edu/whatisslim) at Georgia Tech
 * Supervisor: Professor [Felix Herrmann](https://slim.gatech.edu/people/felix-j-herrmann)
