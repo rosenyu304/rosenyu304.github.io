@@ -17,7 +17,7 @@ Figure 1: Simulation of the Carbon Capture Storage by solving fluid flow equatio
 
 | <img src='/images/SLIM3.png'> | <img src='/images/SLIM2.png'> |
 
-Figure 2: Using the [SLIM Lab's Conditional Normalizing Network](https://github.com/slimgroup/InvertibleNetworks.jl/tree/diff_chan_cond_hint), I set up a sequential-bayesian inference framework to replicate the predator-prey experiment presented by Kruse et al, 2021. The x4 is the inferenced target (X) while the observation is x1~x3 (Y), and the network will return <i>x~p(X|Y)</i>.  
+Figure 2: Using the [SLIM Lab's Conditional Normalizing Network](https://github.com/slimgroup/InvertibleNetworks.jl/tree/diff_chan_cond_hint), I set up a sequential-bayesian inference framework to replicate the predator-prey experiment presented by Kruse et al, 2021. The $x4$ is the inferenced target (X) while the observation is $x1~x3$ (Y), and the network will return $x ~ p(X|Y)$.  
 
 
 Citation:
