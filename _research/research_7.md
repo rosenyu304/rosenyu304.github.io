@@ -1,6 +1,6 @@
 ---
 title: "✈️ ASCENT Project 45: Takeoff/Climb Analysis to Support AEDT APM Development"
-excerpt: "Keywords: Python, Matlab, Data Analysis<br/>"
+excerpt: "**Keywords:** Python, Matlab, Data Analysis<br/>"
 collection: research
 ---
 
