@@ -16,7 +16,12 @@ Education
   * Minor in Earth and Atmospheric Science (Geophysics thread)
 
 Research experience
-======
+======================
+[**Asymmetrical Venus Coronae - 3D Thermal-Mechanical Modeling**](https://rosenyu304.github.io/research/research_1/)
+* Time: Summer 2022 ~ **Present**
+* Lab: [Geophysical Fluid Dynamics goup at ETH Zurich's Institute of Geophysics](https://geophysics.ethz.ch/research/groups/gfd.html)
+* Supervisor: Dr. [Taras Gerya](http://jupiter.ethz.ch/~tgerya/)
+
 [**Computational Modeling for Mid-Ocean Ridges**](https://rosenyu304.github.io/research/research_3/)
 * Time: Fall 2021 ~ **Present**
 * Lab: [Sim Lab](https://joycesim.github.io/) at Georgia Tech
