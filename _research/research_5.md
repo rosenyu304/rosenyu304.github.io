@@ -10,11 +10,11 @@ Publication: https://doi.org/10.1088/1748-3190/ac6d98
 # Video
 1. Example Experiment
 <iframe width="420" height="315"
-src="[https://youtu.be/e2WTwK5P47w](https://youtu.be/e2WTwK5P47w)">
+src="https://youtu.be/e2WTwK5P47w">
 </iframe>
 2. Using Image Processing to abstract the outline of ant raft
 <iframe width="420" height="315"
-src="[https://youtu.be/9UhUbt_B6sk](https://youtu.be/9UhUbt_B6sk)">
+src="https://youtu.be/9UhUbt_B6sk">
 </iframe>
 
 # Figures
