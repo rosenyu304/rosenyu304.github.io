@@ -20,7 +20,7 @@ I am currently working on 4 research projects with the topics of:
 * NASA SWIM Robots Development
 * Venus Coronae Modeling
 
-Recently, I am seeking a part-time software engineering position starting in January 2023 (Spring 2023 semester). I have experience writing code in almost all commercially-used high-level programming languages (Python, Java, C/C++, ......) with knowledge of machine learning & training datasets with Pytorch/Julia, object-oriented programming and data structure & algorithm. Moreover, I also enjoy doing embedded programming for building robots or microcontroller control!
+<!-- Recently, I am seeking a part-time software engineering position starting in January 2023 (Spring 2023 semester). I have experience writing code in almost all commercially-used high-level programming languages (Python, Java, C/C++, ......) with knowledge of machine learning & training datasets with Pytorch/Julia, object-oriented programming and data structure & algorithm. Moreover, I also enjoy doing embedded programming for building robots or microcontroller control! -->
 
 I am also looking for a PhD position starting in Fall 2023. My research interests include computational simulations, machine learning, computer perceptions, robotics, and imaging. However, I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied (geo)physics, artifical intellegence, robotics, space exploration, or planetary science!
 
