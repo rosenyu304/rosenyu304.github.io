@@ -20,3 +20,7 @@ Schemetics for pressure sensor. The embedded code of the sensor can be found [he
 <img src='/images/robotsss.png'> 
 Simulation of SWIM robot's swarm behavior under water.
 
+Video:
+========
+3D six Degree-of-freedom Physics in Processing (java)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7b58-C1ONlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
