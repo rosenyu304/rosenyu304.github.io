@@ -4,8 +4,7 @@ excerpt: "**Keywords:** SWARM Robotics, Computational Fluid Dynamics(CFD), Compu
 collection: research
 ---
 
-Lab: Hu Lab Biolocomotion 
-Publication: https://doi.org/10.1088/1748-3190/ac6d98
+Lab: Hu Lab Biolocomotion (Publication: https://doi.org/10.1088/1748-3190/ac6d98)
 
 # Video
 * Example Experiment
