@@ -13,9 +13,7 @@ Publication: https://doi.org/10.1088/1748-3190/ac6d98
 src="https://youtu.be/e2WTwK5P47w">
 </iframe>
 2. Using Image Processing to abstract the outline of ant raft
-<iframe width="420" height="315"
-src="https://youtu.be/9UhUbt_B6sk">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9UhUbt_B6sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Figures
 <img src='/images/antss.jpg'>
