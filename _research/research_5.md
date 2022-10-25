@@ -8,12 +8,14 @@ Lab: Hu Lab Biolocomotion
 Publication: https://doi.org/10.1088/1748-3190/ac6d98
 
 # Video
-1. Example Experiment
+* Example Experiment
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e2WTwK5P47w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Using Image Processing to abstract the outline of ant raft
+* Using Image Processing to abstract the outline of ant raft
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UhUbt_B6sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
 
 # Figures
 <img src='/images/antss.jpg'>
