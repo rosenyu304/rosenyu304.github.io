@@ -17,6 +17,11 @@ Education
 
 Research experience
 ======================
+Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics, Embedded Coding, Inverse Problems, Probabilistic Programming, Computational Image Processing, Computer Perceptions
+
+
+Research experience
+======================
 [**Asymmetrical Venus Coronae - 3D Thermal-Mechanical Modeling**](https://rosenyu304.github.io/research/research_1/)
 * Time: Summer 2022 ~ **Present**
 * Lab: [Geophysical Fluid Dynamics goup at ETH Zurich's Institute of Geophysics](https://geophysics.ethz.ch/research/groups/gfd.html)
@@ -101,7 +106,9 @@ Publications
 Talks & Conferences
 ======
 *	[Upcoming] Hungtang Ko, Ting-Ying Yu, David Hu. “Collective behaviors of fire ants on the water surface”. In: Society for Integrative and Comparative Biology (SICB) Meeting 2023. Jan 2023. 
-*	[Upcoming] Anna Gülcher, Ting-Ying Yu, Taras Gerya. “The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions”. In: American Geophysical Union. Dec 2022. 
+*	[Upcoming] Anna Gülcher, Ting-Ying Yu, Taras Gerya. “The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions”. In: American Geophysical Union. Dec 2022.
+*	[Upcoming] Ting-Ying Yu. “CO2 Plume Monitoring with Sequential Bayesian Inference”. In: The 2022 ML4Seismic Industry Partners Meeting. Nov 2022. 
+*	Ting-Ying Yu. “The Origin of Asymmetrical Coronae on Venus: Insights from topography data and 3D thermomechanical modelling”. In: ETH Zurich Geophysical Fluid Dynamics Seminar. Sep 2022.  
 *	Ting-Ying Yu. “Deformation of fire ant rafts under uniform flow”. In: Southeastern regional Society of Integrative and Comparative Biology Conference. Nov 2020. 
 
 
@@ -141,3 +148,4 @@ Skills
 Service and leadership
 ======
 * [Beyond Taiwan](https://beyondtw.wordpress.com/) Executive Board
+* Georgia Tech Indoor Climbing Club @ Stone Summit Atlanta, Vice President
