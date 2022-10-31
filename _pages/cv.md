@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Pdf version: [CV](https://rosenyu304.github.io/files/All_CV_10232022.pdf)
+
 Education
 ====================
 * B.S. in Electrical & Computer Engineering, Georgia Institute Technology, 2023
