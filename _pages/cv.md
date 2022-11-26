@@ -141,9 +141,9 @@ Teaching experience
 
 Skills
 ======
-* **Programming:**  Python, PyTorch, Java, Julia, C/C++, R, Bash, HTML, JavaScript, MATLAB, Git, Linux
-* **Software:**  Processing, Paraview, COMSOL Multiphysics, Android Studio, Altera Quartus II, NI LabVIEW, AutoCAD
-* **Hardware:** Arduino, Raspberry Pi, ARM mbed microcontroller, FPGAs, oscilloscope, logic analyzer, water jet
+* **Programming:**  Python, PyTorch, Java, Julia, C/C++, R, Bash, HTML, JavaScript, MATLAB, Git, Linux, Gen.jl
+* **Software:**  Processing.js, Paraview, COMSOL Multiphysics, Android Studio, Altera Quartus II, NI LabVIEW, AutoCAD
+* **Hardware:** Arduino, Raspberry Pi, ESP32/8266, Digilent Analog Discovery, ARM mbed microcontroller, oscilloscope
 * **Document Preparation Systems:** Markdown, LATEX
 * **Languages:**  English (fluent), Chinese (native), Japanese (beginner), French (beginner)
   
