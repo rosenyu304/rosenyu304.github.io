@@ -6,9 +6,9 @@ excerpt: '<sub>Ko, Hungtang, Ting-Ying Yu, and David L. Hu. "Fire ant rafts elon
 date: 
 venue: 
 paperurl: ''
-citation: ''
+citation: 'Ko, Hungtang, Ting-Ying Yu, and David L. Hu. "Fire ant rafts elongate under fluid flows." <i>Bioinspiration & Biomimetics</i> 17.4 (2022): 045007.'
 ---
-<sub>Ko, Hungtang, Ting-Ying Yu, and David L. Hu. "Fire ant rafts elongate under fluid flows." <i>Bioinspiration & Biomimetics</i> 17.4 (2022): 045007.</sub>
+<!-- <sub>Ko, Hungtang, Ting-Ying Yu, and David L. Hu. "Fire ant rafts elongate under fluid flows." <i>Bioinspiration & Biomimetics</i> 17.4 (2022): 045007.</sub> -->
 
 [[pdf]](https://iopscience.iop.org/article/10.1088/1748-3190/ac6d98/pdf) [[doi]](https://doi.org/10.1088/1748-3190/ac6d98) [[iop]](https://iopscience.iop.org/article/10.1088/1748-3190/ac6d98/meta)
 
