@@ -1,6 +1,6 @@
 ---
 title: "📶 Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach"
-excerpt: "**Keywords**: Machine Learning, Julia, Probabilistic Programming(Gen.jl), Sequential Bayesian Infernece, Seismology, Computer Imaging, Carbon Capture Storage (CCS)<br/>"
+excerpt: "**Keywords**: Large-scale scientific machine learning, Julia, Probabilistic Programming(Gen.jl), Sequential Bayesian infernece, Seismology, Imaging, Carbon Capture Storage (CCS), 	CCS, conditional normalizing flows, GCS, ML4SEISMIC, monitoring, time-lapse, Uncertainty quantification<br/>"
 collection: research
 ---
 Lab: [SLIM](https://slim.gatech.edu/) at Georgia Tech
