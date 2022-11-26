@@ -3,7 +3,7 @@ title: "Changes in Tongue Area, Pharyngeal Area, and Pharyngeal Airway Velocity 
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 
+date: 2021-09-30
 venue: ''
 paperurl: ''
 citation: 'Chen, Chun-Ming, **Ting-Ying Yu**, Szu-Ting Chou, Jung-Hsuan Cheng, Shih-Chieh Chen, Chin-Yun Pan, and Yu-Chuan Tseng. 2021. "Changes in Tongue Area, Pharyngeal Area, and Pharyngeal Airway Velocity after Correction of Mandibular Prognathism" <i>Journal of Clinical Medicine 10</i>, no. 19: 4560.'
