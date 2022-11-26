@@ -6,8 +6,7 @@ excerpt: ''
 date: 2022-06-09
 venue: 'Bioinspiration & Biomimetics'
 paperurl: 'https://doi.org/10.1088/1748-3190/ac6d98'
-citation: 'Ko, Hungtang, Ting-Ying Yu, and David L. Hu. "Fire ant rafts elongate under fluid flows." <i>Bioinspiration & Biomimetics</i> 17.4 (2022): 045007.'
-
+citation: 
 ---
 <sub>Ko, Hungtang, Ting-Ying Yu, and David L. Hu. "Fire ant rafts elongate under fluid flows." <i>Bioinspiration & Biomimetics</i> 17.4 (2022): 045007.</sub>
 
