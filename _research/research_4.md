@@ -7,19 +7,25 @@ Lab: Dr. Azadeh Ansari's [Lab](https://aansari.ece.gatech.edu/) at Georgia Tech
 
 NASA Sensing With Independent Micro-Swimmers (SWIM) projects aims to build miniature robots for space exploration, specifically focusing on missions that help find habitable planets. These robots will be designed to have swarm intelligence. For more informaton about the project: ["Swarm of Tiny Swimming Robots Could Look for Life on Distant Worlds"](https://www.jpl.nasa.gov/news/swarm-of-tiny-swimming-robots-could-look-for-life-on-distant-worlds)
 
-My contribution to this project:
-* Simulating the swarm behaviors of underwater robots using Processing
-* Developing code for continuously reading the environment’s pressure and temperature using Seeeduino-XIAO microcontroller and MS5803 Pressure Sensor
-* Investigating in optical wireless communication of robots operating underwater
+<br>
+**Temperature and Pressure Sensor:**
+
+<img src='/images/TP_sensor.png'> 
+Schemetics for temperature and pressure sensor sending data wirelessly. Seeeduino (the smallest Arduino) is used for sensor testing and data transmission.
+
+**Salinity Sensor:**
+<br>
+<img src='/images/TP_sensor.png'> 
+Salinity sensor testing results at frequency 10K, 100k, and 1M Hz. Testing is done by performing impedance sweep on 6 different MEMS salinity sensors the lab developed
 
 
-<img src='/images/SWIM1.png'> 
-Schemetics for pressure sensor. The embedded code of the sensor can be found [here](https://github.com/chrisgrizzly/SWIM/).
-
-
+<br>
+**Processing.js Simulation of robots' swarm behavior:**
+<video crossorigin="anonymous" controls="" loop="" muted="" src="https://aansari.ece.gatech.edu/files/2022/09/video1_lr-1.mp4"></video>
 <img src='/images/robotsss.png'> 
 Simulation of SWIM robot's swarm behavior under water.
 
+<br>
 Video:
 ========
 3D six Degree-of-freedom Physics in Processing (java)
