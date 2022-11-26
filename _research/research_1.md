@@ -9,7 +9,7 @@ Lab: Dr. [Taras Gerya](http://jupiter.ethz.ch/~tgerya/)'s team of [Geophysical F
 # 1. Conference Talk Presentation
 <sub>Ting-Ying Yu. “The Origin of Asymmetrical Coronae on Venus: Insights from topography data and 3D thermomechanical modelling”. In: ETH Zurich Geophysical Fluid Dynamics Seminar. Sep 2022. </sub>
 
-<object data='/files/The Origin of Asymmetrical Coronae on Venus.pdf' type="application/pdf" width="700px" height="700px">
+<object data='/files/The Origin of Asymmetrical Coronae on Venus.pdf' type="application/pdf" width="700px" height="400px">
     <embed src='/files/The Origin of Asymmetrical Coronae on Venus.pdf'>
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href='/files/The Origin of Asymmetrical Coronae on Venus.pdf'>Download PDF</a>.</p>
     </embed>
