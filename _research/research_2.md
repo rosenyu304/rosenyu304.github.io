@@ -35,7 +35,7 @@ Examples of the InvertibleNetworks performance on MNIST dataset: [https://github
 <p>(a) <img src='/images/SLIM3.png'> </p>
 <p>(b) <img src='/images/SLIM2.png'> </p>
 
-Using the [SLIM Lab's Conditional Normalizing Network](https://github.com/slimgroup/InvertibleNetworks.jl/tree/diff_chan_cond_hint), I set up a sequential-bayesian inference framework to replicate the predator-prey experiment presented by Kruse et al, 2021. The $x4$ is the inferenced target (X) while the observation is $x1 \sim x3$ (Y), and the network will return $x \sim p(X\|Y)$.  
+Using the [SLIM Lab's Conditional Normalizing Network](https://github.com/slimgroup/InvertibleNetworks.jl/tree/diff_chan_cond_hint), I set up a sequential-bayesian inference framework to replicate the predator-prey experiment presented by Kruse et al, 2021. The $x4$ is the inferenced target (X) while the observation is $x1 \sim x3$ (Y), and the network will return $x \sim p(X\|Y)$. The training network that is conditioned on the observations has a decrease in error. 
 
 
 Citation:
