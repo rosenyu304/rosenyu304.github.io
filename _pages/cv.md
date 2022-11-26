@@ -17,9 +17,9 @@ Education
   * Minor in Computer Science (Intellegence thread)
   * Minor in Earth and Atmospheric Science (Geophysics thread)
 
-Research experience
+Research interests
 ======================
-Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics, Embedded Coding, Inverse Problems, Probabilistic Programming, Computational Image Processing, Computer Perceptions
+Large-scale Scientific Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics, Inverse Problems, Computational Image Processing, Computer Perceptions, Probabilistic Programming, Embedded Coding 
 
 
 Research experience
@@ -109,7 +109,7 @@ Talks & Conferences
 ======
 *	[Upcoming] Hungtang Ko, Ting-Ying Yu, David Hu. “Collective behaviors of fire ants on the water surface”. In: Society for Integrative and Comparative Biology (SICB) Meeting 2023. Jan 2023. 
 *	[Upcoming] Anna Gülcher, Ting-Ying Yu, Taras Gerya. “The Origin of Asymmetrical Coronae on Venus: Morphology Classification and 3D Thermo-Mechanical Models of Plume-Margin Interactions”. In: American Geophysical Union. Dec 2022.
-*	[Upcoming] Ting-Ying Yu. “CO2 Plume Monitoring with Sequential Bayesian Inference”. In: The 2022 ML4Seismic Industry Partners Meeting. Nov 2022. 
+*	Ting-Ying Yu. “Monitoring CO2 Plume with Sequential Bayesian Inference”. In: The 2022 ML4Seismic Industry Partners Meeting. Nov 2022. 
 *	Ting-Ying Yu. “The Origin of Asymmetrical Coronae on Venus: Insights from topography data and 3D thermomechanical modelling”. In: ETH Zurich Geophysical Fluid Dynamics Seminar. Sep 2022.  
 *	Ting-Ying Yu. “Deformation of fire ant rafts under uniform flow”. In: Southeastern regional Society of Integrative and Comparative Biology Conference. Nov 2020. 
 
