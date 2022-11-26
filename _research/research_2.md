@@ -13,21 +13,21 @@ Project website: [https://slim.gatech.edu/content/monitoring-sequential-bayesian
 
 **ML4Seismic Talk:**
 <sub> Ting-Ying Yu. “Monitoring CO2 Plume with Sequential Bayesian Inference”. In: <i>The 2022 ML4Seismic Industry Partners Meeting</i>. Nov 2022. </sub>
-
+<br>
 <object data='/files/Thu-15-10-Yu.pdf' width="700px" height="400px">
     <embed src='/files/Thu-15-10-Yu.pdf'>
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href='/files/Thu-15-10-Yu.pdf'>Download PDF</a>.</p>
     </embed>
 </object>
                                                                                                                     
-<br></br>                                                                                                               
+<br>                                                                                                               
 
 **InvertibleNetworks.jl training results:**
-<br></br>
+<br>
 Examples of the InvertibleNetworks performance on MNIST dataset: [https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist](https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist)
 <img src='/images/train_001.png'>
 <img src='/images/train_002.png'>
-<br></br>
+<br>
                                 
 **Probablistic Programming:**
 <br>
