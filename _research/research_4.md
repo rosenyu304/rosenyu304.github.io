@@ -21,7 +21,7 @@ Salinity sensor testing results at frequency 10K, 100k, and 1M Hz. Testing is do
 
 <br>
 **Processing.js Simulation of robots' swarm behavior:**
-<iframe width="560" height="315" src="https://youtu.be/vE2_bgOyD5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vE2_bgOyD5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Simulation of SWIM robot's swarm behavior under water.
 
 <br>
