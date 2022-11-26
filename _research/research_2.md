@@ -12,6 +12,7 @@ Project website: [https://slim.gatech.edu/content/monitoring-sequential-bayesian
 <br>
 
 **InvertibleNetworks.jl training results:**
+<br>
 Examples of the InvertibleNetworks performance on MNIST dataset: [https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist](https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist)
 <img src='/images/train_001.png'>
 <img src='/images/train_002.png'>
