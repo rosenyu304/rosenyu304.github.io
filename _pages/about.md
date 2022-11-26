@@ -26,11 +26,15 @@ I am currently working on 4 research projects with the topics of:
 
 I am looking for a PhD position starting in Fall 2023. My research interests include **Large-scale Scientific Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics,** Inverse Problems, Computational Image Processing, Computer Perceptions, Probabilistic Programming, and Embedded Coding. I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied machine learning, artifical intellegence, robotics, (geo)physics, space exploration, or planetary science!
 
-Fun Facts
-========
+<br>
+**Fun Facts:**
+<br>
 - I am originally from Taiwan (currently on F1-Visa), and have been studying/traveling in more than 5 countries (US, Switzerland, Israel, New Zealand, Australia, and Japan). <br>
 
 - During my spare time, I spend most of my time running (indoor/cross country) and in-door rock climbing (lead climbing certified @ [Stone Summit](https://www.ssclimbing.com/)). <br>
+
+<sub> Website's Last update: Nov. 26, 2022 </sub>
+
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  🎵 Running Playlist (Japanese): [Link](https://www.youtube.com/playlist?list=PLEtGS_IHQTVYV-qyCBDASQ_73WdPUVwta) <br>
