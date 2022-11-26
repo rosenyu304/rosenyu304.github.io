@@ -17,14 +17,14 @@ Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am currently an und
 You can find the details of research here: [Research](https://rosenyu304.github.io/research/)
 
 I am currently working on 4 research projects with the topics of: 
-* Mid-Ocean Ridges Modeling
-* Seismic Monitoring CO2 Storage with Machine Learning Approach
+* Monitoring CO2 Storage with sequential Bayesian inference
 * NASA SWIM Robots Development
+* Mid-Ocean Ridges Modeling
 * Venus Coronae Modeling
 
 <!-- Recently, I am seeking a part-time software engineering position starting in January 2023 (Spring 2023 semester). I have experience writing code in almost all commercially-used high-level programming languages (Python, Java, C/C++, ......) with knowledge of machine learning & training datasets with Pytorch/Julia, object-oriented programming and data structure & algorithm. Moreover, I also enjoy doing embedded programming for building robots or microcontroller control! -->
 
-I am also looking for a PhD position starting in Fall 2023. My research interests include computational simulations, machine learning, computer perceptions, robotics, and imaging. However, I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied (geo)physics, artifical intellegence, robotics, space exploration, or planetary science!
+I am looking for a PhD position starting in Fall 2023. My research interests include machine learning, image classification, robotics, computational simulations, computer perceptions, and computational science. However, I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied artifical intellegence, robotics, (geo)physics, space exploration, or planetary science!
 
 Fun Facts
 ========
