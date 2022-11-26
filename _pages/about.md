@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- About me
 ======== -->
-Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am currently an undergraduate student at [Georgia Tech](https://www.gatech.edu/) with a major in [Electrical Engineering](https://www.ece.gatech.edu/) (planning to graduate in Spring 2023). With a passion learning Machine Learning and Solid Earth Science , I am also minoring in [Computer Science (Intelligence specialization)](https://www.cc.gatech.edu/degree-programs/minor-computing-intelligence) and [Earth and Atmosphere Science (Geophysics specialization)](https://eas.gatech.edu/undergrad/geophysics-minor). 
+Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am currently an undergraduate student at **Georgia Tech** with a major in **Electrical Engineering** (planning to graduate in Spring 2023). With a passion learning Machine Learning and Solid Earth Science , I am also minoring in **Computer Science (Intelligence specialization)** and **Earth and Atmosphere Science (Geophysics specialization)**. 
 
 You can find the details of research here: [Research](https://rosenyu304.github.io/research/)
 
