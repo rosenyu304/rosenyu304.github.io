@@ -24,7 +24,7 @@ I am currently working on 4 research projects with the topics of:
 
 <!-- Recently, I am seeking a part-time software engineering position starting in January 2023 (Spring 2023 semester). I have experience writing code in almost all commercially-used high-level programming languages (Python, Java, C/C++, ......) with knowledge of machine learning & training datasets with Pytorch/Julia, object-oriented programming and data structure & algorithm. Moreover, I also enjoy doing embedded programming for building robots or microcontroller control! -->
 
-I am looking for a PhD position starting in Fall 2023. My research interests include machine learning, image classification, robotics, computational simulations, computer perceptions, and computational science. However, I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied artifical intellegence, robotics, (geo)physics, space exploration, or planetary science!
+I am looking for a PhD position starting in Fall 2023. My research interests include Large-scale Scientific <i>Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics, Inverse Problems, Computational Image Processing, Computer Perceptions, Probabilistic Programming, and Embedded Coding</i>. I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied artifical intellegence, robotics, (geo)physics, space exploration, or planetary science!
 
 Fun Facts
 ========
