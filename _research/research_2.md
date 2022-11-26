@@ -6,6 +6,14 @@ collection: research
 Lab: [SLIM](https://slim.gatech.edu/) at Georgia Tech
 Project website: [https://slim.gatech.edu/content/monitoring-sequential-bayesian-inference](https://slim.gatech.edu/content/monitoring-sequential-bayesian-inference)
 
+**Abstract:** For this study, we apply sequential Bayesian inference to monitor the time evolution of subsurface flow of CO2 from indirect acoustic measurements at the surface. Upon receiving new acoustic measurements, we infer the current state of the CO2 by sampling from a learned posterior. Using the incoming data, we then perform online updates of the current posterior. This is accomplished by using the fluid flow model to advance the estimated state variable forward in time in order to update the learned posterior. With a synthetic experiment, we demonstrate this method can track the flow evolution accurately as measured by PSNR metrics. Since the posterior is a learned network, we can compute estimates faster than traditional least squares methods. This method can also quantify the uncertainty due to stochasticity in fluid flow model and the limited-azimuth imaging configuration.
+
+<br>
+
+**Figures:**
+<img src='/images/train_001.png'>
+<img src='/images/train_002.png'>
+
 Using seismic data to simulate carbon (CO2) storage underground is a complicated mathematical and computational process. Recently, the observation and simulation CO2 storage can be solved with performing inverse method on the seismic images of the storage and be optimized by neural network. However, simulating the underground CO2 model at current time is not enough for maintaining the storage at a long-term. The ability of detecting potential leakeage or any danger will be required to ensure the safety of the storage unit. Thus, this project investigate in the development of probablistic programming inferencting architecture with conditional normalizing flow network - a potential tools that could be applied on detecting storage danger incidents in the future.
 
 My tasks for this project include:
