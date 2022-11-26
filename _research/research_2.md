@@ -12,13 +12,14 @@ Project website: [https://slim.gatech.edu/content/monitoring-sequential-bayesian
 <br>
 
 **InvertibleNetworks.jl training results:**
+Examples of the InvertibleNetworks performance on MNIST dataset: [https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist](https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist)
 <img src='/images/train_001.png'>
 <img src='/images/train_002.png'>
 <br>
 **Probablistic Programming:**
 <br>
 
-| <img src='/images/SLIM3.png'> | <img src='/images/SLIM2.png'> |
+ | <img src='/images/SLIM3.png'> | <img src='/images/SLIM2.png'> |
 
 Using the [SLIM Lab's Conditional Normalizing Network](https://github.com/slimgroup/InvertibleNetworks.jl/tree/diff_chan_cond_hint), I set up a sequential-bayesian inference framework to replicate the predator-prey experiment presented by Kruse et al, 2021. The $x4$ is the inferenced target (X) while the observation is $x1 \sim x3$ (Y), and the network will return $x \sim p(X\|Y)$.  
 
