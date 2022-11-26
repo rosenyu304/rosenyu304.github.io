@@ -15,7 +15,7 @@ Lab: Dr. [Taras Gerya](http://jupiter.ethz.ch/~tgerya/)'s team of [Geophysical F
     </embed>
 </object>
 
-
+<br>
 # 2. Asymmetrical Coronae Classification
 <img src='/images/venus1.png'>
 <br>
