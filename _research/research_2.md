@@ -12,7 +12,9 @@ Project website: [https://slim.gatech.edu/content/monitoring-sequential-bayesian
 <br>
 
 **ML4Seismic Talk:**
-<sub> Ting-Ying Yu. “Monitoring CO2 Plume with Sequential Bayesian Inference”. In: <i>The 2022 ML4Seismic Industry Partners Meeting</i>. Nov 2022. </sub>
+Ting-Ying Yu. “Monitoring CO2 Plume with Sequential Bayesian Inference”. In: <i>The 2022 ML4Seismic Industry Partners Meeting</i>. Nov 2022. 
+<br>
+Youtube Recording: [[link]](https://youtu.be/RTF7atvKNA0)
 <br>
 <object data='/files/Thu-15-10-Yu.pdf' width="700px" height="400px">
     <embed src='/files/Thu-15-10-Yu.pdf'>
