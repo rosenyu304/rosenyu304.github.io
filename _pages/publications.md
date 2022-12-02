@@ -14,3 +14,15 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Thesis
+==========
+
+**Deformation of fire ant rafts under uniform flow**
+* Ting-Ying Yu. Georgia Tech Research Option Undergraduate Thesis. 2021. 
+<br>
+<object data='/files/Undergraduate Research Thesis.pdf' width="700px" height="400px">
+    <embed src='/files/Undergraduate Research Thesis.pdf'>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href='/files/Undergraduate Research Thesis.pdf'>Download PDF</a>.</p>
+    </embed>
+</object>
