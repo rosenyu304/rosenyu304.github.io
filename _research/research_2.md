@@ -1,44 +1,32 @@
 ---
-title: "🗺️ Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach"
-excerpt: "**Keywords**: Large-scale scientific machine learning, Julia, Probabilistic Programming(Gen.jl), Sequential Bayesian infernece, Seismology, Imaging, Carbon Capture Storage (CCS), conditional normalizing flows, GCS, ML4SEISMIC, monitoring, time-lapse, Uncertainty quantification<br/>"
+title: "🤖 NASA SWIM Robots Development"
+excerpt: "**Keywords:** Robotics, Embedded Programming, Computer Vision, Computer Simulation, SWARM behavior<br/>"
 collection: research
 ---
-Lab: [SLIM](https://slim.gatech.edu/) at Georgia Tech
-<br>
-Project website: [https://slim.gatech.edu/content/monitoring-sequential-bayesian-inference](https://slim.gatech.edu/content/monitoring-sequential-bayesian-inference)
+Lab: Dr. Azadeh Ansari's [Lab](https://aansari.ece.gatech.edu/) at Georgia Tech
 
-**Abstract:** For this study, we apply sequential Bayesian inference to monitor the time evolution of subsurface flow of CO2 from indirect acoustic measurements at the surface. Upon receiving new acoustic measurements, we infer the current state of the CO2 by sampling from a learned posterior. Using the incoming data, we then perform online updates of the current posterior. This is accomplished by using the fluid flow model to advance the estimated state variable forward in time in order to update the learned posterior. With a synthetic experiment, we demonstrate this method can track the flow evolution accurately as measured by PSNR metrics. Since the posterior is a learned network, we can compute estimates faster than traditional least squares methods. This method can also quantify the uncertainty due to stochasticity in fluid flow model and the limited-azimuth imaging configuration.
+NASA Sensing With Independent Micro-Swimmers (SWIM) projects aims to build miniature robots for space exploration, specifically focusing on missions that help find habitable planets. These robots will be designed to have swarm intelligence. For more informaton about the project: ["Swarm of Tiny Swimming Robots Could Look for Life on Distant Worlds"](https://www.jpl.nasa.gov/news/swarm-of-tiny-swimming-robots-could-look-for-life-on-distant-worlds)
 
 <br>
+**Temperature and Pressure Sensor:**
 
-**ML4Seismic Talk:**
-Ting-Ying Yu. “Monitoring CO2 Plume with Sequential Bayesian Inference”. In: <i>The 2022 ML4Seismic Industry Partners Meeting</i>. Nov 2022. 
-<br>
-* Youtube Recording: [[link]](https://youtu.be/RTF7atvKNA0)
-<br>
-<object data='/files/Thu-15-10-Yu.pdf' width="700px" height="400px">
-    <embed src='/files/Thu-15-10-Yu.pdf'>
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href='/files/Thu-15-10-Yu.pdf'>Download PDF</a>.</p>
-    </embed>
-</object>
-                                                                                                                    
-<br>                                                                                                               
+<img src='/images/TP_sensor.png'> 
+Schemetics for temperature and pressure sensor sending data wirelessly. Seeeduino (the smallest Arduino) is used for sensor testing and data transmission.
 
-**InvertibleNetworks.jl training results:**
+**Salinity Sensor:**
 <br>
-Examples of the InvertibleNetworks performance on MNIST dataset: [https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist](https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist)
-<img src='/images/train_001.png'>
-<img src='/images/train_002.png'>
+<img src='/images/1M_real.png'> 
+Salinity sensor testing results at frequency 10K, 100k, and 1M Hz. Testing is done by performing impedance sweep on 6 different MEMS salinity sensors. The figure above shows one of the result of 1M Hz group
+
+
 <br>
-                                
-**Probablistic Programming:**
+**Processing.js Simulation of robots' swarm behavior:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vE2_bgOyD5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Simulation of SWIM robot's swarm behavior under water.
+
 <br>
 
-<p>(a) <img src='/images/SLIM3.png'> </p>
-<p>(b) <img src='/images/SLIM2.png'> </p>
-
-Using the [SLIM Lab's Conditional Normalizing Network](https://github.com/slimgroup/InvertibleNetworks.jl/tree/diff_chan_cond_hint), I set up a sequential-bayesian inference framework to replicate the predator-prey experiment presented by Kruse et al, 2021. The $x4$ is the inferenced target (X) while the observation is $x1 \sim x3$ (Y), and the network will return $x \sim p(X\|Y)$. The training network that is conditioned on the observations has a decrease in error. 
-
-
-Citation:
-* Kruse, Jakob, et al. "HINT: Hierarchical invertible neural transport for density estimation andBayesian inference." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35.No. 9. 2021.
+Video:
+============
+3D six Degree-of-freedom Physics in Processing (java)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7b58-C1ONlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
