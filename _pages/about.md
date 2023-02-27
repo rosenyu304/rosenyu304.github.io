@@ -12,19 +12,19 @@ redirect_from:
 
 <!-- About me
 ======== -->
-Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am currently an undergraduate student at **Georgia Tech** with a major in **Electrical Engineering** (planning to graduate in Spring 2023). With a passion learning Machine Learning and Solid Earth Science , I am also minoring in **Computer Science (Intelligence specialization)** and **Earth and Atmosphere Science (Geophysics specialization)**. 
+Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am currently an undergraduate student at **Georgia Tech** with a major in **Electrical Engineering** (planning to graduate in Spring 2023). With a passion learning Machine Learning and Solid Earth Science , I am also minoring in **Computer Science (Intelligence specialization)** and **Earth and Atmosphere Science (Geophysics specialization)**.
 
-<!-- Recently, I am seeking a part-time software engineering position starting in January 2023 (Spring 2023 semester). I have experience writing code in almost all commercially-used high-level programming languages (Python, Java, C/C++, ......) with knowledge of machine learning & training datasets with Pytorch/Julia, object-oriented programming and data structure & algorithm. Moreover, I also enjoy doing embedded programming for building robots or microcontroller control! -->
+I am looking for a PhD position starting in Fall 2023. My research interests include **Large-scale Scientific Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics,** Inverse Problems, Computational Image Processing, Computer Perceptions, Probabilistic Programming, and Embedded Coding. I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied machine learning, artifical intellegence, and any solution to climate change! 
 
-I am looking for a PhD position starting in Fall 2023. My research interests include **Large-scale Scientific Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics,** Inverse Problems, Computational Image Processing, Computer Perceptions, Probabilistic Programming, and Embedded Coding. I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied machine learning, artifical intellegence, robotics, (geo)physics, space exploration, or planetary science!
-
-You can find the details of my research experience here: [Research](https://rosenyu304.github.io/research/)
+You can find the details of my research experience here: [Research](https://rosenyu304.github.io/research/) or under the research tab.
 
 Note: I am currently working on 4 research projects with the topics of: Monitoring CO2 Storage with sequential Bayesian inference, NASA SWIM Robots Development, Mid-Ocean Ridges Modeling, and Venus Coronae Modeling.
 
 <br>
 **Fun Facts:**
 <br>
+- I was originally an aerospace engineering major so I know some basics planes/rocketry knowledge. <br>
+
 - I am originally from Taiwan (currently on F1-Visa), and have been studying/traveling in more than 5 countries (US, Switzerland, Israel, New Zealand, Australia, and Japan). <br>
 
 - During my spare time, I spend most of my time running (indoor/cross country) and in-door rock climbing (lead climbing certified @ [Stone Summit](https://www.ssclimbing.com/)). <br>
