@@ -1,45 +1,44 @@
 ---
-title: "🛰️ Asymmetrical Venus Coronae - 3D Thermal-Mechanical Modeling"
-excerpt: "**Keywords:** Computer Simulation, 3D fluid flow simulation, Geodynamics, Paraview, GMT(PyGMT), Bash<br/>"
+title: "🗺️ Seismic Monitoring for CO2 Carbon Capture Storage with Statistical Machine Learning Approach"
+excerpt: "**Keywords**: Large-scale scientific machine learning, Julia, Probabilistic Programming(Gen.jl), Sequential Bayesian infernece, Seismology, Imaging, Carbon Capture Storage (CCS), conditional normalizing flows, GCS, ML4SEISMIC, monitoring, time-lapse, Uncertainty quantification<br/>"
 collection: research
 ---
-Lab: Dr. [Taras Gerya](http://jupiter.ethz.ch/~tgerya/)'s team of [Geophysical Fluid Dynamics goup at ETH Zurich's Institute of Geophysics](https://geophysics.ethz.ch/research/groups/gfd.html)
+Lab: [SLIM](https://slim.gatech.edu/) at Georgia Tech
+<br>
+Project website: [https://slim.gatech.edu/content/monitoring-sequential-bayesian-inference](https://slim.gatech.edu/content/monitoring-sequential-bayesian-inference)
 
+**Abstract:** For this study, we apply sequential Bayesian inference to monitor the time evolution of subsurface flow of CO2 from indirect acoustic measurements at the surface. Upon receiving new acoustic measurements, we infer the current state of the CO2 by sampling from a learned posterior. Using the incoming data, we then perform online updates of the current posterior. This is accomplished by using the fluid flow model to advance the estimated state variable forward in time in order to update the learned posterior. With a synthetic experiment, we demonstrate this method can track the flow evolution accurately as measured by PSNR metrics. Since the posterior is a learned network, we can compute estimates faster than traditional least squares methods. This method can also quantify the uncertainty due to stochasticity in fluid flow model and the limited-azimuth imaging configuration.
 
-# 1. Conference Talk Presentation
-<sub>Ting-Ying Yu. “The Origin of Asymmetrical Coronae on Venus: Insights from topography data and 3D thermomechanical modelling”. In: ETH Zurich Geophysical Fluid Dynamics Seminar. Sep 2022. </sub>
+<br>
 
-<object data='/files/The Origin of Asymmetrical Coronae on Venus.pdf' type="application/pdf" width="700px" height="400px">
-    <embed src='/files/The Origin of Asymmetrical Coronae on Venus.pdf'>
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href='/files/The Origin of Asymmetrical Coronae on Venus.pdf'>Download PDF</a>.</p>
+**ML4Seismic Talk:**
+Ting-Ying Yu. “Monitoring CO2 Plume with Sequential Bayesian Inference”. In: <i>The 2022 ML4Seismic Industry Partners Meeting</i>. Nov 2022. 
+<br>
+* Youtube Recording: [[link]](https://youtu.be/RTF7atvKNA0)
+<br>
+<object data='/files/Thu-15-10-Yu.pdf' width="700px" height="400px">
+    <embed src='/files/Thu-15-10-Yu.pdf'>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href='/files/Thu-15-10-Yu.pdf'>Download PDF</a>.</p>
     </embed>
 </object>
+                                                                                                                    
+<br>                                                                                                               
 
+**InvertibleNetworks.jl training results:**
 <br>
-# 2. Asymmetrical Coronae Classification
-<img src='/images/venus1.png'>
+Examples of the InvertibleNetworks performance on MNIST dataset: [https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist](https://github.com/slimgroup/InvertibleNetworks.jl/tree/cond_mnist)
+<img src='/images/train_001.png'>
+<img src='/images/train_002.png'>
 <br>
-Fig 1. Global distribution of coronae identified as symmetric or asymmetric subclasses. A Mollweide projection centered at  60° E is utilized in both images. Coronae are plotted on (A) the global topography relative to 6051.877 km (Sandwell, 2015; Gülcher, 2018) and (B) the Venus crustal thickness (Weiczorek, 2015). A complete record of classifications for all 130 coronae is provided in Table 2 in the supplementary section. 
-<img src='/images/venus2.png'>
-Fig 2. Topography of Venus coronae classified as each class. 
-(A) Aramaiti coronae, an example of symmetric coronae located at [-26.3°, 82°] with a diameter of 350km. (B) Juksakka coronae, an example of asymmetric coronae of margin subclass located at [-19.5°, 44.5°] with a diameter of 320km. (C) Ereshkigal coronae, an example of asymmetric coronae of intrinsic subclass located at [21°, 84.5°] with a diameter of 320km. (D) Marzyana coronae, an example of asymmetric coronae of angular subclass located at [-53°, 67.5°] with a diameter of 350km. (E) Obiemi coronae, an example of asymmetric coronae of angular subclass located at [-31.9°, 276.6°] with a diameter of 300km. (F) Ceres coronae, an example of asymmetric coronae of elongated subclass located at [-16°, 151.5°] with a diameter of 675km.
+                                
+**Probablistic Programming:**
+<br>
 
-# 3. Simulation Results
-<img src='/images/venus_0.jpg'>
-Fig 3. Hand drawings of model dimensions. The models varies in their crutal thickness, transition length, and thermal profile of the lithosphere. Details of each model's structural geometry are provided in the supplementary [Table 1](https://drive.google.com/file/d/1Ywb3DcD2w8w90dfWiEOIGYHoEAtA7Jux/view?usp=sharing). 
+<p>(a) <img src='/images/SLIM3.png'> </p>
+<p>(b) <img src='/images/SLIM2.png'> </p>
 
-<img src='/images/result_lh2040mB_1.png'>
-Fig 4. Lowland Trench Formation. Results of model "lh2040mB" with crustal heterogeneity and crustal thickness of 20-40km and 100km transition. The upper and middle rows show the snapshots of composition in 3D and 2D with temperature. The bottom row displays the surface topography of coronae. 
-
-<img src='/images/result_lth2040mB_1.png'>
-Fig 5. Plateau Trench Formation. Results of model "lth2040mB" with thermal heterogeneity and crustal thickness of 20-40km and 100km transition. The upper and middle rows show the snapshots of composition in 3D and 2D with temperature. The bottom row displays the surface topography of coronae. 
-
-<img src='/images/Fig_lh_lth_40_B_C.png'>
-Fig 6. Composition and topography of the coronae development from the numerical model group of 20-40km crustal heterogeneity and variation in transition length and thermal heterogeneity. (A), (B) shows merely the effect of crustal heterogeneity (lh-), resulting in coronae with a trench on the lowland side.  With the thermal heterogeneity in (C) and (D), a different pattern of the asymmetry of coronae is demonstrated with a trench on the plateau side.
+Using the [SLIM Lab's Conditional Normalizing Network](https://github.com/slimgroup/InvertibleNetworks.jl/tree/diff_chan_cond_hint), I set up a sequential-bayesian inference framework to replicate the predator-prey experiment presented by Kruse et al, 2021. The $x4$ is the inferenced target (X) while the observation is $x1 \sim x3$ (Y), and the network will return $x \sim p(X\|Y)$. The training network that is conditioned on the observations has a decrease in error. 
 
 
-# 4. Detailed Motivation
-
-Venus is the closest planetary neighbor of Earth and is often called its twin planet. Even though Earth and Venus have similar size, density, and interior composition (Solomon et al., 1982), they own drastically different atmospheres and interior dynamics (Phillips, 1990). It is commonly thought that upwelling columns of hot mantle material (plumes) result in diverse volcanic styles, which form various volcanic structures at Venus' surface (Nimmo and McKenzie, 1998). The unique surface deformation and volcanism on Venus are believed to be one of the reasons why Earth has become an oasis while Venus remains inhabitable. One of the unique volcanic features on Venus is coronae – a large, circular to elongated structure located on the Venusian surface (Stofan et al., 1991) that is associated with volcanic and tectonic features (Gerya et al., 2015). They feature a variety of sizes, shapes, and morphologies. Multiple theories explain their formation, most of which propose that they are a response to an upwelling mantle plume, followed by gravitational relaxation due to magma withdrawal (Stofan et al., 1991). As coronae appearances are related to the motions of deep material underneath (mantle convection), these structures might be the key to understanding Venus’ tectonics and surface evolution. 
-
-The overall goal of this research is to study asymmetrical corona structures' formation by simulating the mantle's interaction with a heterogeneous Venusian lithosphere and thermal profile. Previously, Stadler et al. (2019) ran 10 models to investigate this phenomenon and concluded that a variation of the crustal thickness results in asymmetrical plume penetration and asymmetrical coronae morphology. They found that the thermal profile and plume positioning are the critical factors affecting the resulting corona structure at the surface. To better examine the effect of these individual parameters, this project will supplement Stadler's study (2019) by running more numerical models using additional parameters that affect plume-lithosphere interaction and datasets representing different physics behind the coronae formation. 
+Citation:
+* Kruse, Jakob, et al. "HINT: Hierarchical invertible neural transport for density estimation andBayesian inference." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35.No. 9. 2021.
