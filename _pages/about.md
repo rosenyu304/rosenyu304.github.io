@@ -16,7 +16,7 @@ Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am currently an und
 
 I am looking for a PhD position starting in Fall 2023. My research interests include **Large-scale Scientific Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics,** Inverse Problems, Computational Image Processing, Computer Perceptions, Probabilistic Programming, and Embedded Coding. I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied machine learning, artifical intellegence, and any solution to climate change! 
 
-You can find the details of my research experience here: [Research](https://rosenyu304.github.io/research/) or under the research tab.
+You can find the details of my research experience here: [Research](https://rosenyu304.github.io/research/) (or under the research tab).
 
 Note: I am currently working on 4 research projects with the topics of: Monitoring CO2 Storage with sequential Bayesian inference, NASA SWIM Robots Development, Mid-Ocean Ridges Modeling, and Venus Coronae Modeling.
 
