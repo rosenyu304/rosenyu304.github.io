@@ -14,11 +14,11 @@ redirect_from:
 ======== -->
 Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am currently an undergraduate student at **Georgia Tech** with a major in **Electrical Engineering** (planning to graduate in Spring 2023). With a passion learning Machine Learning and Solid Earth Science , I am also minoring in **Computer Science (Intelligence specialization)** and **Earth and Atmosphere Science (Geophysics specialization)**.
 
-I am looking for a PhD position starting in Fall 2023. My research interests include **Large-scale Scientific Machine Learning, Computational Simulations (Geophysics / Fluid Flows), Robotics,** Inverse Problems, Computational Image Processing, Computer Perceptions, Probabilistic Programming, and Embedded Coding. I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied machine learning, artifical intellegence, and any solution to climate change! 
+My research interests include **Large-scale Scientific Machine Learning, Robotics, Inverse Problems**, Computational Image Processing, Probabilistic Programming, Embedded Coding, and Computational Fluid Simulations. I would love to explore anything that uses computing to solve scientific problem, especially topics related to applied machine learning, artifical intellegence, and any solution to climate change! 
 
 You can find the details of my research experience here: [Research](https://rosenyu304.github.io/research/) (or under the research tab).
 
-Note: I am currently working on 4 research projects with the topics of: Monitoring CO2 Storage with sequential Bayesian inference, NASA SWIM Robots Development, Mid-Ocean Ridges Modeling, and Venus Coronae Modeling.
+Note: I am currently working on 3 research projects with the topics of: Monitoring CO2 Storage with sequential Bayesian inference, Mid-Ocean Ridges Modeling, and Venus Coronae Modeling.
 
 <br>
 **Fun Facts:**
@@ -29,7 +29,7 @@ Note: I am currently working on 4 research projects with the topics of: Monitori
 
 - During my spare time, I spend most of my time running (indoor/cross country) and in-door rock climbing (lead climbing certified @ [Stone Summit](https://www.ssclimbing.com/)). <br>
 
-<sub> Website's Last update: Nov. 26, 2022 </sub>
+<sub> Website's Last update: March 13th, 2023 </sub>
 
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
