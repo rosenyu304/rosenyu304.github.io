@@ -11,6 +11,10 @@ redirect_from:
 
 Here are some projects that I did for classes, hackathons, or just for fun!
 
+❄️🏔️ Glacier Dynamics (EAS 4803)
+====================
+* **About:** Final project using Landsat 8 data to investigate the relationship between ice melts and Southern Annular Mode (SAM).
+* [Poster](https://github.com/rosenyu304/rosenyu304.github.io/blob/master/files/Yu_poster_final_ver.pdf)
 
 🤖🧠 Fundamentals of Machine Learning (ECE 4803)
 ====================
