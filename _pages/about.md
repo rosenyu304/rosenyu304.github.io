@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- About me
 ======== -->
-Hi I am Ting-Ying Yu and people usually call me **Rosen**. I am a graduate student at MIT with a major in Mechanical Engineering and Computational Science & Engineering. 
+Hi, I am Ting-Ying Yu, and people usually call me Rosen. I am a graduate student at MIT majoring in Mechanical Engineering and Computational Science & Engineering. 
 
 <!-- With a passion learning Machine Learning and Solid Earth Science , I am also minoring in **Computer Science (Intelligence specialization)** and **Earth and Atmosphere Science (Geophysics specialization)**.
 
@@ -31,7 +31,7 @@ Note: I am currently working on 3 research projects with the topics of: Monitori
 
 - During my spare time, I spend most of my time running (indoor/cross country) and in-door rock climbing (lead climbing certified @ [Stone Summit](https://www.ssclimbing.com/)).  <br>   -->
 
-<sub> Website's Last update: March 13th, 2023 </sub>
+<sub> Website's Last update: August 15th, 2023 </sub>
 
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
