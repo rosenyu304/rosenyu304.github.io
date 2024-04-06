@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- About me
 ======== -->
-Hi, I am Ting-Ying Yu, and people usually call me Rosen. I am a graduate student at MIT majoring in Mechanical Engineering and Computational Science & Engineering. 
+Hi, I am Rosen. I am a graduate student at MIT DeCoDE lab majoring in Mechanical Engineering and Computational Science & Engineering. 
 
 <!-- With a passion learning Machine Learning and Solid Earth Science , I am also minoring in **Computer Science (Intelligence specialization)** and **Earth and Atmosphere Science (Geophysics specialization)**.
 
@@ -22,10 +22,10 @@ You can find the details of my research experience here: [Research](https://rose
 
 Note: I am currently working on 3 research projects with the topics of: Monitoring CO2 Storage with sequential Bayesian inference, Mid-Ocean Ridges Modeling, and Venus Coronae Modeling. -->
 
-<br>
+<!-- <br>
 **Fun Facts:**
 <br>
-- I was originally an aerospace engineering major so I know some basics planes/rocketry knowledge. <br>
+- I was originally an aerospace engineering major so I know some basics planes/rocketry knowledge. <be> -->
 
 <!-- - I am originally from Taiwan (currently on F1-Visa), and have been studying/traveling in more than 5 countries (US, Switzerland, Israel, New Zealand, Australia, and Japan). <br>
 
