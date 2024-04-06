@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ting-Ying (Rosen) Yu"
+title                    : "Rosen (Ting-Ying) Yu"
 title_separator          : "-"
-name                     : &name "Ting-Ying (Rosen) Yu"
+name                     : &name "Rosen (Ting-Ying) Yu"
 description              : &description "personal description"
 url                      : https://rosenyu304.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ting-Ying (Rosen) Yu"
-  avatar           : "Rosen.jpg"
+  name             : "Rosen (Ting-Ying) Yu"
+  avatar           : "Rosen_img.JPG"
   bio              : "MIT MechE/CSE Grad"
   location         : "Cambridge, MA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z0M1YNgAAAAJ&hl=zh-TW"
-  email            : tyu304@gatech.edu
+  email            : rosenyu@mit.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
