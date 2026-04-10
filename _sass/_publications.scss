@@ -52,6 +52,10 @@
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
 
+          div {
+            color: inherit !important;
+          }
+
           a {
             color: white;
 

@@ -7,7 +7,11 @@
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+            {% assign venue_style_str = site.data.venues[entry.abbr].color | prepend: 'background-color:' %}
+            {% if site.data.venues[entry.abbr].text_color != blank %}
+              {% assign venue_style_str = venue_style_str | append: '; color:' | append: site.data.venues[entry.abbr].text_color | append: ' !important' %}
+            {% endif %}
+            {% assign venue_style = venue_style_str | prepend: 'style="' | append: '"' %}
           {%- endif -%}
           <abbr
             class="badge rounded w-100"

@@ -1,3 +1,11 @@
+"TFM":
+  color: "#1966ff"
+  text_color: "#ffffff"
+
+"TFM & BO":
+  color: "#F5A623"
+  text_color: "#000000"
+
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"

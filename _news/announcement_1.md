@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-25 09:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+**GIT-BO** accepted to **ICLR 2026** (Poster)!
