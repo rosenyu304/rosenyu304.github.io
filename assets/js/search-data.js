@@ -409,6 +409,9 @@ ninja.data = [{
           section: "News",},{id: "news-fire-accepted-to-the-iclr-2026-workshop-fm4science-poster",
           title: 'FIRE accepted to the ICLR 2026 Workshop FM4Science (Poster).',
           description: "",
+          section: "News",},{id: "news-fire-accepted-to-icml-2026-spotlight-top-2-2",
+          title: 'FIRE accepted to ICML 2026 (Spotlight, top 2.2%)! 🔥',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -469,7 +472,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Rosen_CV_2026Apr10.pdf", "_blank");
+          window.open("/assets/pdf/Rosen_CV_2026May02.pdf", "_blank");
         },
       },{
         id: 'social-email',
