@@ -11,6 +11,8 @@ nav_order: 2
 
 - **GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models.** *ICLR 2026*, Rio de Janeiro, Brazil. Poster.
 
+- **FIRE: Multi-fidelity Regression with Distribution-conditioned In-context Learning using Tabular Foundation Models.** *ICLR 2026 Workshop on Foundation Models for Science (FM4Science)*, Rio de Janeiro, Brazil. Poster.
+
 ## 2025
 
 - **GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models.** *International Design Engineering Technical Conferences (IDETC)*, Anaheim, CA. Talk.

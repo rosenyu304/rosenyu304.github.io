@@ -15,3 +15,15 @@
 
 "Vision":
   color: "#009f36"
+
+"ICML 2026 Spotlight":
+  color: "#750014"
+  text_color: "#ffffff"
+
+"ICLR 2026":
+  color: "#750014"
+  text_color: "#ffffff"
+
+"EurIPS 2025":
+  color: "#750014"
+  text_color: "#ffffff"

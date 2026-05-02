@@ -29,6 +29,32 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
+      {%- if entry.extra_abbr -%}
+        {%- if site.data.venues[entry.extra_abbr] -%}
+          {% assign extra_venue_style = null %}
+          {% if site.data.venues[entry.extra_abbr].color != blank %}
+            {% assign extra_venue_style_str = site.data.venues[entry.extra_abbr].color | prepend: 'background-color:' %}
+            {% if site.data.venues[entry.extra_abbr].text_color != blank %}
+              {% assign extra_venue_style_str = extra_venue_style_str | append: '; color:' | append: site.data.venues[entry.extra_abbr].text_color | append: ' !important' %}
+            {% endif %}
+            {% assign extra_venue_style = extra_venue_style_str | prepend: 'style="' | append: '"' %}
+          {%- endif -%}
+          <abbr
+            class="badge rounded w-100"
+            {% if extra_venue_style %}
+              {{ extra_venue_style }}
+            {% endif -%}
+          >
+            {% if site.data.venues[entry.extra_abbr].url %}
+              <a href="{{ site.data.venues[entry.extra_abbr].url }}">{{ entry.extra_abbr }}</a>
+            {% else %}
+              <div>{{- entry.extra_abbr -}}</div>
+            {% endif %}
+          </abbr>
+        {% else %}
+          <abbr class="badge rounded w-100">{{ entry.extra_abbr }}</abbr>
+        {% endif %}
+      {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
