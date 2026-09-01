@@ -9,7 +9,11 @@
           {% if site.data.venues[entry.abbr].color != blank %}
             {% assign venue_style_str = site.data.venues[entry.abbr].color | prepend: 'background-color:' %}
             {% if site.data.venues[entry.abbr].text_color != blank %}
-              {% assign venue_style_str = venue_style_str | append: '; color:' | append: site.data.venues[entry.abbr].text_color | append: ' !important' %}
+              {% assign venue_style_str = venue_style_str
+                | append: '; color:'
+                | append: site.data.venues[entry.abbr].text_color
+                | append: ' !important'
+              %}
             {% endif %}
             {% assign venue_style = venue_style_str | prepend: 'style="' | append: '"' %}
           {%- endif -%}
@@ -35,7 +39,11 @@
           {% if site.data.venues[entry.extra_abbr].color != blank %}
             {% assign extra_venue_style_str = site.data.venues[entry.extra_abbr].color | prepend: 'background-color:' %}
             {% if site.data.venues[entry.extra_abbr].text_color != blank %}
-              {% assign extra_venue_style_str = extra_venue_style_str | append: '; color:' | append: site.data.venues[entry.extra_abbr].text_color | append: ' !important' %}
+              {% assign extra_venue_style_str = extra_venue_style_str
+                | append: '; color:'
+                | append: site.data.venues[entry.extra_abbr].text_color
+                | append: ' !important'
+              %}
             {% endif %}
             {% assign extra_venue_style = extra_venue_style_str | prepend: 'style="' | append: '"' %}
           {%- endif -%}
@@ -411,7 +419,7 @@
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
-        {% endhighlight %}
+      {% endhighlight %}
       </div>
     {% endif %}
 

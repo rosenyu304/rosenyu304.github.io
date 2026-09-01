@@ -27,3 +27,7 @@
 "EurIPS 2025":
   color: "#750014"
   text_color: "#ffffff"
+
+"BO Benchmarks":
+  color: "lightyellow"
+  text_color: "#000000"
